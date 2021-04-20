@@ -32,3 +32,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Anotações
+
+* Usando o next para criar o projeto
+* Adicionado as libs para typescript com os comando: yarn add typescript @types/react @types/node -D
+* Adicionado sass para o css: yarn add sass 
+* Adicionado o json-server para simular um servidor, servindo um arquivo json na raiz do projeto: yarn add json-server -D ; yarn server
+
+* yarn build - para build
+* yarn start - para rodar setado para produção
